@@ -1,5 +1,5 @@
 ## Olá 👋
-### Atualmente estudando lógica de programação.
+### Atualmente estudando lógica de programação e Godot.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archynar)](https://github.com/archynar/github-readme-stats)
 
