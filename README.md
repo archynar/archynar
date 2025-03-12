@@ -1,7 +1,7 @@
 # 👉Joás Silva
 **`Futuro FullStack`**
 
-Me chamo Joás, com 33 anos natural de São Paulo. E Em busca de conhecimento atráves de cursos pagos e gratuitos que encontro para me profissionalizar como FullStack.
+Me chamo Joás, com 33 anos natural de São Paulo. Em busca de conhecimento atráves de cursos pagos e gratuitos que encontro para me profissionalizar como FullStack.
 Com um canal no YouTube chamado "[archynar](https://www.youtube.com/@archynar)", onde passo tudo o que aprendi desde projetos web até algumas "coisas" que compartilho deste mundo do desenvolvimento, e assim exercitar e fixar o conhecimento aprendido.
 
 ---
