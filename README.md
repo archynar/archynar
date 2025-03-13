@@ -1,4 +1,4 @@
-# 👉Joás Silva
+# 👉Joás Oliveira
 **`Futuro FullStack`**
 
 Me chamo Joás, com 33 anos natural de São Paulo. Em busca de conhecimento atráves de cursos pagos e gratuitos que encontro para me profissionalizar como FullStack.
