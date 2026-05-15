@@ -1,8 +1,8 @@
 # 👨🏻‍💻Joás Silva (archynar)
 **`Desenvolvedor de jogos`**
 
-Olá, me chamo Joás. Atualmente estundante de algoritmo e lógica de programação, com uma incrível admiração pelo universo gamer.
-Tenho um canal no YouTube que se chama "[archynar](https://www.youtube.com/@archynar)", onde posto conteúdo sobre: Games, Gameplays, Analises, Gamedev e tudo que está relacionado ao incrível universo.
+Olá, me chamo Joás. Atualmente estundando algoritmos e lógica de programação, com uma incrível admiração pelo universo gamer.
+Tenho um canal no YouTube que se chama "[archynar](https://www.youtube.com/@archynar)", onde posto conteúdo sobre: Games, Gameplays, Analises, Gamedev e tudo que está relacionado a este incrível universo.
 
 <p align="left">
     <a href="https://www.youtube.com/@archynar?sub_confirmation=1">
