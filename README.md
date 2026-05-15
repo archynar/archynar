@@ -1,8 +1,8 @@
 # 👨🏻‍💻Joás Silva (archynar)
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor de jogos`**
 
-Olá, me chamo Joás. Atualmente estundado tecnologias para entrar no setor de desenvolvimento FullStack, usando tecnologias atuais e vigentes no mercado.
-Também tenho um canal no YouTube que se chama "[archynar](https://www.youtube.com/@archynar)", onde posto conteúdo sobre: tecnologia, games e programação.
+Olá, me chamo Joás. Atualmente estundante de algoritmo e lógica de programação, com uma incrível admiração pelo universo gamer.
+Tenho um canal no YouTube que se chama "[archynar](https://www.youtube.com/@archynar)", onde posto conteúdo sobre: Games, Gameplays, Analises, Gamedev e tudo que está relacionado ao incrível universo.
 
 <p align="left">
     <a href="https://www.youtube.com/@archynar?sub_confirmation=1">
@@ -29,46 +29,13 @@ Também tenho um canal no YouTube que se chama "[archynar](https://www.youtube.c
 </p>
 
 ---
-### 🤖 Linguagens e Tecnologias
+### ⚙️ Engines
 
 <img
     align="left"
-    alt="HTML5"
-    title="HTML5"
+    alt="Godot"
+    title="Godot"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"
 />
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-<img
-    align="left"
-    alt="Javascript"
-    title="Javascript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-<img
-    align="left"
-    alt="Typescript"
-    title="Typescript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
-<img
-    align="left"
-    alt="nodejs"
-    title="nodejs"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
-<br/>
